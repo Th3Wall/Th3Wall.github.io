@@ -1,2 +1,2 @@
 # Th3Wall.github.io
-My GitHub Page
+My personal GitHub page, forked from https://github.com/imfunniee/gitfolio
