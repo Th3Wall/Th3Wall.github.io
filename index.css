@@ -59,6 +59,11 @@ body{
     color:#fff !important;
 }
 
+#profile a, #about a {
+    color: white;
+    text-decoration: none;
+}
+
 #display {
     width:64vw;
     padding:4vh 3vw;
